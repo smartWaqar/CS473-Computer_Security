@@ -1,0 +1,2 @@
+Uncomment Problem Functions to run them!
+Problem 6 is brute Forced on all key lengths
