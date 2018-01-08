@@ -2,11 +2,11 @@ These contains my implementation of Set-1 of http://cryptopals.com/
 
 which includes implementing these:
 
-Convert hex to base64
-Fixed XOR
-Single-byte XOR cipher
-Detect single-character XOR
-Implement repeating-key XOR
-Break repeating-key XOR
-AES in ECB mode
-Detect AES in ECB mode
+1. Convert hex to base64
+2. Fixed XOR
+3. Single-byte XOR cipher
+4. Detect single-character XOR
+5. Implement repeating-key XOR
+6. Break repeating-key XOR
+7. AES in ECB mode
+8. Detect AES in ECB mode
