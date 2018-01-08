@@ -1,0 +1,314 @@
+-------------------------------
+Length of my String:  10
+My String:  DQHTEDkjLx
+Hex  20
+4451485445446b6a4c78
+Base64  17
+RFFIVEVEa2pMeA==
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  42
+My String:  H2cXQ0GeI0UBXoJy0u4aQ7Pg5qR5PKuMjpyOCAtgmg
+Hex  84
+483263585130476549305542586f4a79307534615137506735715235504b754d6a70794f434174676d67
+Base64  57
+SDJjWFEwR2VJMFVCWG9KeTB1NGFRN1BnNXFSNVBLdU1qcHlPQ0F0Z21n
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  40
+My String:  Aqk7MNyDs58i6YUWH2MYvPdbkjtqnc9q96sJXvnz
+Hex  80
+41716b374d4e7944733538693659555748324d59765064626b6a74716e6339713936734a58766e7a
+Base64  57
+QXFrN01OeURzNThpNllVV0gyTVl2UGRia2p0cW5jOXE5NnNKWHZueg==
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  0
+My String:  
+Hex  0
+
+Base64  0
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  99
+My String:  9HHxWRgBHobhFJ8bIBjWwUT0CcgE1sRFBYhsy0U0HPUcu7gWKdgmHpIItR4Z27x2UPjpZ3VaShUtwZN3xEPqCk4yy0WlzngVIpB
+Hex  198
+3948487857526742486f6268464a386249426a57775554304363674531735246425968737930553048505563753767574b64676d487049497452345a3237783255506a705a33566153685574775a4e3378455071436b34797930576c7a6e6756497042
+Base64  134
+OUhIeFdSZ0JIb2JoRko4YklCald3VVQwQ2NnRTFzUkZCWWhzeTBVMEhQVWN1N2dXS2RnbUhwSUl0
+UjRaMjd4MlVQanBaM1ZhU2hVdHdaTjN4RVBxQ2s0eXkwV2x6bmdWSXBC
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  6
+My String:  EDZVoq
+Hex  12
+45445a566f71
+Base64  9
+RURaVm9x
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  1
+My String:  f
+Hex  2
+66
+Base64  5
+Zg==
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  64
+My String:  ynwmlxuk8zrMqZev5Ynjgx0KzNmRlDJcTppKZNOiHiPV0peTH4md5WQe2BfXkppe
+Hex  128
+796e776d6c78756b387a724d715a657635596e6a6778304b7a4e6d526c444a635470704b5a4e4f69486950563070655448346d6435575165324266586b707065
+Base64  90
+eW53bWx4dWs4enJNcVpldjVZbmpneDBLek5tUmxESmNUcHBLWk5PaUhpUFYwcGVUSDRtZDVXUWUy
+QmZYa3BwZQ==
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  79
+My String:  jOQmMIfMDDK7IJJVKF5jbE5GKEOevXIekx6NMmuC9jrT8qgzaXvuMu2F9aEzt2gnl7tZsp9NO5wzOnP
+Hex  158
+6a4f516d4d49664d44444b37494a4a564b46356a624535474b454f65765849656b78364e4d6d7543396a72543871677a615876754d7532463961457a7432676e6c37745a7370394e4f35777a4f6e50
+Base64  110
+ak9RbU1JZk1EREs3SUpKVktGNWpiRTVHS0VPZXZYSWVreDZOTW11QzlqclQ4cWd6YVh2dU11MkY5
+YUV6dDJnbmw3dFpzcDlOTzV3ek9uUA==
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  32
+My String:  48iK9O3UP5Pa269kld0OPff2d0Mchvil
+Hex  64
+3438694b394f3355503550613236396b6c64304f5066663264304d636876696c
+Base64  45
+NDhpSzlPM1VQNVBhMjY5a2xkME9QZmYyZDBNY2h2aWw=
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  79
+My String:  XVehWrwRX2tl3cibB2Nw422o2g71reYYgqeSae5LARK8B98aODbELELSMxa0cEhpTEnPoxm93wRWo5V
+Hex  158
+58566568577277525832746c3363696242324e773432326f3267373172655959677165536165354c41524b38423938614f4462454c454c534d7861306345687054456e506f786d39337752576f3556
+Base64  110
+WFZlaFdyd1JYMnRsM2NpYkIyTnc0MjJvMmc3MXJlWVlncWVTYWU1TEFSSzhCOThhT0RiRUxFTFNN
+eGEwY0VocFRFblBveG05M3dSV281Vg==
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  37
+My String:  p2xoT6B3sIhHw9XWSQN3sqvQn9u7iBSkcUxRG
+Hex  74
+7032786f54364233734968487739585753514e33737176516e3975376942536b6355785247
+Base64  53
+cDJ4b1Q2QjNzSWhIdzlYV1NRTjNzcXZRbjl1N2lCU2tjVXhSRw==
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  66
+My String:  uFpRSYaQiUF5FMhjo3Lx3ddGSnXwY0USi0QssooETfwxk60ckqt883xi2iM4ruACAC
+Hex  132
+754670525359615169554635464d686a6f334c7833646447536e58775930555369305173736f6f45546677786b3630636b7174383833786932694d34727541434143
+Base64  90
+dUZwUlNZYVFpVUY1Rk1oam8zTHgzZGRHU25Yd1kwVVNpMFFzc29vRVRmd3hrNjBja3F0ODgzeGky
+aU00cnVBQ0FD
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  76
+My String:  CN6Ti9TJNRvRTyN2JHC1fgfD4R9R7zQI5X289NqjbUl2q352xdMJIiy8DINHGyhxdB2XjvsHdbPE
+Hex  152
+434e36546939544a4e52765254794e324a4843316667664434523952377a514935583238394e716a62556c327133353278644d4a4969793844494e4847796878644232586a76734864625045
+Base64  106
+Q042VGk5VEpOUnZSVHlOMkpIQzFmZ2ZENFI5Ujd6UUk1WDI4OU5xamJVbDJxMzUyeGRNSklpeThE
+SU5IR3loeGRCMlhqdnNIZGJQRQ==
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  89
+My String:  Vl3X7B2X7gqE06YRhkZsaq4v6C5fGwc69YbNssZTiBu4GY5ALxroD1S267b2ZKhiiskQLWyK813ZvnYSPcUmwoVZt
+Hex  178
+566c3358374232583767714530365952686b5a736171347636433566477763363959624e73735a5469427534475935414c78726f44315332363762325a4b686969736b514c57794b3831335a766e59535063556d776f565a74
+Base64  122
+VmwzWDdCMlg3Z3FFMDZZUmhrWnNhcTR2NkM1Zkd3YzY5WWJOc3NaVGlCdTRHWTVBTHhyb0QxUzI2
+N2IyWktoaWlza1FMV3lLODEzWnZuWVNQY1Vtd29WWnQ=
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  25
+My String:  DNftkeFBS1Qb6uwblzSirLoVk
+Hex  50
+444e66746b65464253315162367577626c7a5369724c6f566b
+Base64  37
+RE5mdGtlRkJTMVFiNnV3Ymx6U2lyTG9Waw==
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  65
+My String:  9tV2D1GIS1Y5OD5tt0N35LZaU7iKFON55nnFNPTW9QFw0ELsIc1zhoz90gF3NLj25
+Hex  130
+3974563244314749533159354f44357474304e33354c5a615537694b464f4e35356e6e464e5054573951467730454c734963317a686f7a39306746334e4c6a3235
+Base64  90
+OXRWMkQxR0lTMVk1T0Q1dHQwTjM1TFphVTdpS0ZPTjU1bm5GTlBUVzlRRncwRUxzSWMxemhvejkw
+Z0YzTkxqMjU=
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  14
+My String:  pLzobdcA0UaMm7
+Hex  28
+704c7a6f626463413055614d6d37
+Base64  21
+cEx6b2JkY0EwVWFNbTc=
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  91
+My String:  qmcuDHqiaMkaEDrPWP9ItbykifLGxQZMNG6AxYcGaTQosOgNeK3OAAPiEHtz8dufJk4P58YtPhhzs4Ou6AMNn18zHaN
+Hex  182
+716d637544487169614d6b6145447250575039497462796b69664c4778515a4d4e473641785963476154516f734f674e654b334f414150694548747a386475664a6b3450353859745068687a73344f7536414d4e6e31387a48614e
+Base64  126
+cW1jdURIcWlhTWthRURyUFdQOUl0YnlraWZMR3hRWk1ORzZBeFljR2FUUW9zT2dOZUszT0FBUGlF
+SHR6OGR1ZkprNFA1OFl0UGhoenM0T3U2QU1ObjE4ekhhTg==
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  1
+My String:  x
+Hex  2
+78
+Base64  5
+eA==
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  83
+My String:  xy6d1ZMoLzJjZNs1Y5YF9Jv5PNuBE5ZTJS72ATR8gaE5Tkw6IhQrwsotzN744KGSRAxrNPzJYU8cTJtxlNs
+Hex  166
+78793664315a4d6f4c7a4a6a5a4e733159355946394a7635504e754245355a544a5337324154523867614535546b77364968517277736f747a4e3734344b4753524178724e507a4a59553863544a74786c4e73
+Base64  114
+eHk2ZDFaTW9MekpqWk5zMVk1WUY5SnY1UE51QkU1WlRKUzcyQVRSOGdhRTVUa3c2SWhRcndzb3R6
+Tjc0NEtHU1JBeHJOUHpKWVU4Y1RKdHhsTnM=
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  89
+My String:  Kq1xm5v6QHlZmeOKTUiIfODwpp8oa93ThNZ2tg56YX7CMe4WX89k0J0JCLGFHs3JUigMO6FQCrcp0AL9a9YtVYpND
+Hex  178
+4b7131786d35763651486c5a6d654f4b54556949664f44777070386f61393354684e5a3274673536595837434d6534575838396b304a304a434c47464873334a5569674d4f3646514372637030414c39613959745659704e44
+Base64  122
+S3ExeG01djZRSGxabWVPS1RVaUlmT0R3cHA4b2E5M1RoTloydGc1NllYN0NNZTRXWDg5azBKMEpD
+TEdGSHMzSlVpZ01PNkZRQ3JjcDBBTDlhOVl0VllwTkQ=
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  74
+My String:  hP5vHj2rzGRb0qbIWd5IMCv07qK3K3zJIFAcUaZLSzjCsc1AqR4xLBiGzCoq5Ob0jrVAIlx7L7
+Hex  148
+68503576486a32727a47526230716249576435494d43763037714b334b337a4a4946416355615a4c537a6a4373633141715234784c4269477a436f71354f62306a725641496c78374c37
+Base64  102
+aFA1dkhqMnJ6R1JiMHFiSVdkNUlNQ3YwN3FLM0szekpJRkFjVWFaTFN6akNzYzFBcVI0eExCaUd6
+Q29xNU9iMGpyVkFJbHg3TDc=
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  16
+My String:  d9ZeTo4pYphGYOkR
+Hex  32
+64395a65546f347059706847594f6b52
+Base64  25
+ZDlaZVRvNHBZcGhHWU9rUg==
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  36
+My String:  WXvLCI0SNVl7SFjA9VGFXhK3q1wT7xRBSe5j
+Hex  72
+5758764c434930534e566c3753466a413956474658684b3371317754377852425365356a
+Base64  49
+V1h2TENJMFNOVmw3U0ZqQTlWR0ZYaEszcTF3VDd4UkJTZTVq
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  56
+My String:  RqcRBNO8O9my1MeCLSigXPxR0b9bI9QSaXuENNjuxsG3dx40FE067mzF
+Hex  112
+52716352424e4f384f396d79314d65434c536967585078523062396249395153615875454e4e6a75787347336478343046453036376d7a46
+Base64  77
+UnFjUkJOTzhPOW15MU1lQ0xTaWdYUHhSMGI5Ykk5UVNhWHVFTk5qdXhzRzNkeDQwRkUwNjdtekY=
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  1
+My String:  i
+Hex  2
+69
+Base64  5
+aQ==
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  36
+My String:  ye4kQC4uvj8mAc9uemWkULnpJgoHPpwLM5Tg
+Hex  72
+7965346b51433475766a386d41633975656d576b554c6e704a676f485070774c4d355467
+Base64  49
+eWU0a1FDNHV2ajhtQWM5dWVtV2tVTG5wSmdvSFBwd0xNNVRn
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  58
+My String:  XwoEarNPiuvgX6zyQyePvpkO2UmoEN77Ow4DW1pcAMcT2zipJEyCEWhXhH
+Hex  116
+58776f4561724e506975766758367a795179655076706b4f32556d6f454e37374f77344457317063414d6354327a69704a457943455768586848
+Base64  82
+WHdvRWFyTlBpdXZnWDZ6eVF5ZVB2cGtPMlVtb0VONzdPdzREVzFwY0FNY1QyemlwSkV5Q0VXaFho
+SA==
+
+passed
+-------------------------------------
+-------------------------------
+Length of my String:  3
+My String:  KoC
+Hex  6
+4b6f43
+Base64  5
+S29D
+
+passed
+-------------------------------------
+ 
+ 
